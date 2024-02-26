@@ -1,0 +1,5 @@
+<resources>
+    <style name="Base.Theme.LottoNumberGenerator" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+    <style name="Theme.LottoNumberGenerator" parent="Base.Theme.LottoNumberGenerator" />
+</resources>
